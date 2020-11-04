@@ -1,0 +1,8 @@
+tensorflow
+bokeh
+numpy
+pandas
+streamlit
+joblib
+pathlib
+nltk
