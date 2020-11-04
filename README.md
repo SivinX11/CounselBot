@@ -24,7 +24,7 @@ This is the open-source repository for the CounselBot web-app.
         git clone https://github.com/SivinX11/CounselBot.git
 - Enter The directory: 
 
-        cd Hacknight-CounselBot
+        cd CounselBot
 - Setting up the Python Environment with dependencies:
 
         pip install -r requirements.txt
