@@ -18,23 +18,16 @@ This is the open-source repository for the CounselBot web-app.
 - After the test, you will receive a detailed report on the top 5 occupations recommended by our Web application. It will give you a brief introduction to those professions. 
 
 # Steps for usage
-- Setting up the Python Environment with dependencies:
-
-        pip install tensorflow
-        pip install bokeh
-        pip install numpy
-        pip install pandas
-        pip install streamlit
-        pip install joblib
-        pip install pathlib
-        pip install nltk
 
 - Cloning the Repository: 
 
-        git clone https://github.com/Nivetha2312/Hacknight-CounselBot.git
+        git clone https://github.com/SivinX11/CounselBot.git
 - Enter The directory: 
 
         cd Hacknight-CounselBot
+- Setting up the Python Environment with dependencies:
+
+        pip install -r requirements.txt
 - Run the Python setup:
         
         python setup.py
