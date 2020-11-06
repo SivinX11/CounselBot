@@ -1,4 +1,7 @@
 # Welcome to CounselBot
+[![Python](https://img.shields.io/badge/Python-3.8.0-blue)]() 
+[![License](https://img.shields.io/github/license/SivinX11/CounselBot)](https://github.com/SivinX11/CounselBot/blob/master/LICENSE) 
+[![Issues](https://img.shields.io/github/issues/SivinX11/Neural_Style_Transfer)]()
 CounselBot is a web-based application to help students to make effective career choices.
 It is a very user-friendly platform which will surely be very easy to use and a powerful tool for all students.
 ## Use CounselBot to:
