@@ -1,5 +1,5 @@
 # Welcome to CounselBot
-[![Python](https://img.shields.io/badge/Python-3.8.0-blue)]() 
+[![Python](https://img.shields.io/badge/Python-3.7.0-blue)]() 
 [![License](https://img.shields.io/github/license/SivinX11/CounselBot)](https://github.com/SivinX11/CounselBot/blob/master/LICENSE) 
 [![Issues](https://img.shields.io/github/issues/SivinX11/Neural_Style_Transfer)]()
 
