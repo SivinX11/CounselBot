@@ -15,10 +15,11 @@ It is an intuitive yet powerful tool built on a user-friendly platform to make t
 - Get a detailed report of the top 5 careers you have an inclination towards.
 
 CounselBot is a multi-platform web application that runs on Windows, Linux, Mac and Android. It is an easily moldable and largely scalable application designed to have a small memory footprint. 
-This is the open-source repository for the CounselBot web-app. 
+This is the open-source repository for the CounselBot web-app.
+
 
 <p align="center">
-<img src="gif_bot.gif">
+<img width="500" height="260" src="gif_bot.gif">
 </p>
 
 ## :star2: Features
@@ -28,6 +29,11 @@ This is the open-source repository for the CounselBot web-app.
 - The personality test, which is an in-depth quiz that analyses your strengths and weaknesses. 
 - A detailed report following the quiz with particulars on the top 5 recommended career paths.
 - Contacts of professional counselors and experts from various fields if seeking further guidance is deemed necessary. 
+
+
+<p align="center">
+<img width="500" height="260" src="gif_results.gif">
+</p>
 
 # :green_book: Steps for usage
 
