@@ -6,6 +6,9 @@
 
 CounselBot is a web-based application that helps students make effective decisions involving their careers. 
 It is an intuitive yet powerful tool built on a user-friendly platform to make the overall student experience smoother. 
+
+
+![](img/21.png)
 ## :mortar_board: Use CounselBot to:
 - Get answers to questions related to choice of streams and colleges.
 - Take an in-depth quiz to find out more about yourself and your prospective career paths.
@@ -14,7 +17,9 @@ It is an intuitive yet powerful tool built on a user-friendly platform to make t
 CounselBot is a multi-platform web application that runs on Windows, Linux, Mac and Android. It is an easily moldable and largely scalable application designed to have a small memory footprint. 
 This is the open-source repository for the CounselBot web-app. 
 
-![](img/21.png)
+<p align="center">
+<img src="gif_bot.gif">
+</p>
 
 ## :star2: Features
 - A chatbot at the outset, running on a simple yet robust Tensorflow model, that:
