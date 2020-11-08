@@ -1,45 +1,47 @@
-# Welcome to CounselBot
+# :wave: Welcome to CounselBot
 [![Python](https://img.shields.io/badge/Python-3.7.0-blue)]() 
 [![License](https://img.shields.io/github/license/SivinX11/CounselBot)](https://github.com/SivinX11/CounselBot/blob/master/LICENSE) 
 [![Issues](https://img.shields.io/github/issues/SivinX11/Neural_Style_Transfer)]()
 
 
-CounselBot is a web-based application to help students to make effective career choices.
-It is a very user-friendly platform which will surely be very easy to use and a powerful tool for all students.
-## Use CounselBot to:
-- Getting answers to general questions related to colleges and all the streams
-- Take an in-depth quiz to find more bout yourself and career suitable for you
-- Get a very detailed report which will provide you info about the top 5 professions you are inclined to.
+CounselBot is a web-based application that helps students make effective decisions involving their careers. 
+It is an intuitive yet powerful tool built on a user-friendly platform to make the overall student experience smoother. 
+## :mortar_board: Use CounselBot to:
+- Get answers to questions related to choice of streams and colleges.
+- Take an in-depth quiz to find out more about yourself and your prospective career paths.
+- Get a detailed report of the top 5 careers you have an inclination towards.
 
-CounselBot Web-app runs on Windows, Linux, Mac and even Android. It is a web application that can easily be moulded according to our needs. It has this flexibility as it uses Streamlit as its platform.
+CounselBot is a multi-platform web application that runs on Windows, Linux, Mac and Android. It is an easily moldable and largely scalable application designed to have a small memory footprint. 
 This is the open-source repository for the CounselBot web-app. 
 
 ![](img/21.png)
 
-## Features
-- Initially, in this app, you are greeted with a chatbot, made by us from very scratch by using TensorFlow.
-- It will answer all your basic questions regarding career, streams, subjects, and colleges. You can also ask the bot for starting your test.
-- The personality test is an in-depth test that’ll analyse and access you with effective career choices.
-- After the test, you will receive a detailed report on the top 5 occupations recommended by our Web application. It will give you a brief introduction to those professions. 
+## :star2: Features
+- A chatbot at the outset, running on a simple yet robust Tensorflow model, that:
+  - Attends to questions regarding choice of careers, streams, subjects, and colleges.
+  - Starts the personality test upon your request.
+- The personality test, which is an in-depth quiz that analyses your strengths and weaknesses. 
+- A detailed report following the quiz with particulars on the top 5 recommended career paths.
+- Contacts of professional counselors and experts from various fields if seeking further guidance is deemed necessary. 
 
-# Steps for usage
+# :green_book: Steps for usage
 
-- Cloning the Repository: 
+- Clone the repository: 
 
         git clone https://github.com/SivinX11/CounselBot.git
 - Enter The directory: 
 
         cd CounselBot
-- Setting up the Python Environment with dependencies:
+- Set up the Python environment with dependencies:
 
         pip install -r requirements.txt
 - Run the Python setup:
         
         python setup.py
-- Run the App:
+- Run the app:
 
         streamlit run app.py
-- Stop the app from terminal:
+- Terminate the program from the terminal:
 
         Ctrl+C
 
